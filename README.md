@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usmanmub
-- 👀 I’m interested Programming and Football.
+- 👀 I’m interested in Programming and Football.
 - 🌱 I’m currently doing Python.
-- 💞️ I’m looking to collaborate on any task.
+- 💞️ I’m looking to improve over time.
 - 📫 Email u8517998@gmail.com for any enquiries
 
 <!---
